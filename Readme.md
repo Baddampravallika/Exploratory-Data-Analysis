@@ -42,7 +42,7 @@ notebook>=6.5.0
 
 ## clone the repository
 
-git clone https://github.com/Baddampravallika/.git
+git cone https://github.com/Baddampravallika/Exploratory-Data-Analysis.git
 
 ## set up a virtual enviroment
 
